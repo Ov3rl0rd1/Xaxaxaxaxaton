@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+~$*.docx
+
+CLAUDE.md
+ДОКУМЕНТАЦИЯ.md
+Хакатон. 23.06.2026-25.06.2026.docx
